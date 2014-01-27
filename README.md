@@ -16,7 +16,7 @@ Code must satisfy the followings requirement:
 
 ### Submit:
 To work on this exercise, there are some free guide:
-1. Fork this project
-2. Work on it
-3. Push back to github
-4. Send me a pull request
+  1. Fork this project
+  2. Work on it
+  3. Push back to github
+  4. Send me a pull request
