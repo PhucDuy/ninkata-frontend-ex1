@@ -13,3 +13,10 @@ Code must satisfy the followings requirement:
 * Follow the Coding Standard above
 * Try to make it look the same with the picture
 * Photos can be get from [placekitten](http://placekitten.com/)
+
+### Submit:
+To work on this exercise, there are some free guide:
+1. Fork this project
+2. Work on it
+3. Push back to github
+4. Send me a pull request
